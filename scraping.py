@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import streamlit as st
-from textblob import TextBlobthon
+from textblob import TextBlob
 
 def main():
     #scrape the shit
